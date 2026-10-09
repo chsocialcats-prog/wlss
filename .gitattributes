@@ -1,2 +1,2 @@
-WLSS-PC_Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
-WLSS-PC_Data/resources.assets filter=lfs diff=lfs merge=lfs -text
+wlss_data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+wlss_data/resources.assets filter=lfs diff=lfs merge=lfs -text
